@@ -1,5 +1,5 @@
 {
-  "ProgramVersion": "1.0.0",
+  "ProgramVersion": "1.0.1",
   "ProgramInstaller": "updates/program/EQAA_Setup.exe",
   "SilentArgs": "/VERYSILENT /NORESTART /SUPPRESSMSGBOXES"
 }
