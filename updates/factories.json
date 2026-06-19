@@ -1,0 +1,16 @@
+{
+  "factories": [
+    {
+      "name": "สระบุรี",
+      "db": "machines_สระบุรี.db"
+    },
+    {
+      "name": "โรจนะ",
+      "db": "machines_โรจนะ.db"
+    },
+    {
+      "name": "6000",
+      "db": "machines_6000.db"
+    }
+  ]
+}
