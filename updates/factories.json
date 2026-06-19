@@ -2,15 +2,18 @@
   "factories": [
     {
       "name": "สระบุรี",
-      "db": "machines_สระบุรี.db"
+      "db": "machines_สระบุรี.db",
+      "version": "1.0.5"
     },
     {
       "name": "โรจนะ",
-      "db": "machines_โรจนะ.db"
+      "db": "machines_โรจนะ.db",
+      "version": "1.0.2"
     },
     {
       "name": "6000",
-      "db": "machines_6000.db"
+      "db": "machines_6000.db",
+      "version": "1.0.8"
     }
   ]
 }
