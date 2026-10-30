@@ -11,8 +11,8 @@
       "version": "1.0.4"
     },
     {
-      "name": "6000",
-      "db": "machines_6000.db",
+      "name": "Pinewave",
+      "db": "machines_Pinewave.db",
       "version": "1.0.2"
     }
   ]
